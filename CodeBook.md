@@ -1,14 +1,17 @@
 # Code book for Getting-and-Cleaning-Data-Project-1
 Data field descriptions for Project 1
 ###Identifiers
+
 subject -- unique identifier of subject
+
 activity -- short description of what activity was done
-    `WALKING (value 1): 			measurements from when subject was walking
-    `WALKING_UPSTAIRS (value 2): measurements from when subject was walking up stairs
-    `WALKING_DOWNSTAIRS (value 3): measurements from whensubject was walking down stairs
-    `SITTING (value 4): 			measurements from when subject was sitting
-    `STANDING (value 5): 		measurements from whensubject was standing
-    `LAYING (value 6): 			measurements from when subject was laying down
+    * `WALKING (value 1): 			measurements from when subject was walking
+    * `WALKING_UPSTAIRS (value 2): measurements from when subject was walking up stairs
+    * `WALKING_DOWNSTAIRS (value 3): measurements from whensubject was walking down stairs
+    * `SITTING (value 4): 			measurements from when subject was sitting
+    * `STANDING (value 5): 		measurements from whensubject was standing
+    * `LAYING (value 6): 			measurements from when subject was laying down
+
 ###Variables
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
