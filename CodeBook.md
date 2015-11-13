@@ -5,17 +5,17 @@ Data field descriptions for Project 1
 subject -- unique identifier of subject
 
 activity -- short description of what activity was done
-    * `WALKING (value 1): 			measurements from when subject was walking`
+    WALKING (value 1): 			measurements from when subject was walking
     
-    * `WALKING_UPSTAIRS (value 2): measurements from when subject was walking up stairs`
+    WALKING_UPSTAIRS (value 2): measurements from when subject was walking up stairs
     
-    * `WALKING_DOWNSTAIRS (value 3): measurements from whensubject was walking down stairs`
+    WALKING_DOWNSTAIRS (value 3): measurements from whensubject was walking down stairs
     
-    * `SITTING (value 4): 			measurements from when subject was sitting`
+    SITTING (value 4): 			measurements from when subject was sitting
     
-    * `STANDING (value 5): 		measurements from whensubject was standing`
+    STANDING (value 5): 		measurements from whensubject was standing
     
-    * `LAYING (value 6): 			measurements from when subject was laying down`
+    LAYING (value 6): 			measurements from when subject was laying down
     
 
 ###Variables
